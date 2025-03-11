@@ -60,4 +60,7 @@ The dataset contains **10,754 records** with **22 columns** of information. Belo
   
 - **Prediction Interpretation:**
   - The model predicts the `current_value` based on a combination of performance metrics and team affiliation.
+ 
+- **Model Deployment:**
+  - https://usecase-7-9vww.onrender.com 
   
